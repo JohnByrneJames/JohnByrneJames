@@ -15,9 +15,6 @@
 
 ### **Personal Information:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="Images/DevOps_tools.png" />
-
 - :round_pushpin: **London** Based
 - :date: **Start of Training** : **15/06/2020**
 - :calendar: **End of Training** : **28/06/2020**
@@ -29,23 +26,6 @@
 <!-- Technical skills Here -->
 
 &nbsp;
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="Images/CICD_DevOps_Journey.png" />
-
-### **Course Road Map:**
-- [x] **Week One** - Business Week
-- [x] **Week Two** - SQL
-- [x] **Week Three** - Python
-- [x] **Week Four** - Python Continued
-- [x] **Week Five** - Python Airport Project
-- [x] **Week Six** - Quality Gate and Interviews
-- [x] **Week Seven** - DevOps Begins **|** Linux with Virtual Machines, Vagrant and Ruby Scripting
-- [x] **Week Eight** - DevOps Continued **|** _**CICD**_ Pipeline, Jenkins and AWS
-- [x] **Week Nine** - DevOps In-depth **|** Amazon Web Service, VPC, Networking and N-Tier Architecture
-- [x] **Week Ten** - Infrastructure as Code **|** _**IAC**_ with Ansible, Provision orchestration with Terraform, Hybrid Cloud, Route 53, Scalability and Load Balancing
-- [x] **Week Eleven** - Containerisation **|** with Docker and orchestration theory with Kubernetes. Quality gates.. and E2E CICD Pipeline
-- [x] **Week Twelve** - Graduation Project **|** End-to-End Pipeline with Jenkins from development through testing to delivery and deployment into production.
 
 ### **Technical Skills**
 
