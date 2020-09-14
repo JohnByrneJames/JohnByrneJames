@@ -45,7 +45,7 @@
 - [x] **Week Nine** - DevOps In-depth **|** Amazon Web Service, VPC, Networking and N-Tier Architecture
 - [x] **Week Ten** - Infrastructure as Code **|** _**IAC**_ with Ansible, Provision orchestration with Terraform, Hybrid Cloud, Route 53, Scalability and Load Balancing
 - [x] **Week Eleven** - Containerisation **|** with Docker and orchestration theory with Kubernetes. Quality gates.. and E2E CICD Pipeline
-- [ ] **Week Twelve** - Graduation Project **|**
+- [x] **Week Twelve** - Graduation Project **|** End-to-End Pipeline with Jenkins from development through testing to delivery and deployment into production.
 
 ### **Technical Skills**
 
