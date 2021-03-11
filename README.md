@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I am John Byrne a Junior DevOps Engineer at Sparta Global
+## Hi, I am John Byrne a Junior DevOps Engineer / Web Developer
 
 <!-- Social Media / Contacts Badges -->
 
@@ -16,9 +16,7 @@
 ### **Personal Information:**
 
 - :round_pushpin: **London** Based
-- :date: **Start of Training** : **15/06/2020**
-- :calendar: **End of Training** : **28/06/2020**
-- :cyclone: **Junior DevOp Engineer**
+- :cyclone: **Junior DevOp Engineer** / **Web Developer**
 - :trophy: **1st Class** in Computing with Games Development
 - :notebook: [**Training Notes**](/Notes)
 - :zap: **Fun Fact** : I have an almost unhealthy obsession with Japanese Culture. :japanese_castle:
